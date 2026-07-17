@@ -1,5 +1,5 @@
-import '../../core/config/llm_config.dart';
-import '../../core/errors/exceptions.dart';
+import '../../../core/config/llm_config.dart';
+import '../../../core/errors/exceptions.dart';
 import 'llm_client.dart';
 
 class LocalLLMClient extends LLMClient {

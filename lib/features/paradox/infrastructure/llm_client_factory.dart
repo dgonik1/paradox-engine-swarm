@@ -1,4 +1,4 @@
-import '../../core/config/llm_config.dart';
+import '../../../core/config/llm_config.dart';
 import 'llm_client.dart';
 import 'fake_llm_client.dart';
 import 'openai_client.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../../../../core/config/llm_config.dart';
+import '../../../core/config/llm_config.dart';
 import 'paradox_controller.dart';
 
 class ParadoxPage extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import '../../core/config/llm_config.dart';
-import '../../core/errors/exceptions.dart';
+import '../../../core/config/llm_config.dart';
+import '../../../core/errors/exceptions.dart';
 import 'llm_client.dart';
 
 class OpenAIClient extends LLMClient {

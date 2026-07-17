@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../../../core/config/llm_config.dart';
-import '../../../../core/errors/exceptions.dart';
+import '../../../core/config/llm_config.dart';
+import '../../../core/errors/exceptions.dart';
 import '../application/blackboard.dart';
 import '../application/banality_detector.dart';
 import '../application/paradox_orchestrator.dart';
